@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ejercicio2_2","l":"Alcoholica"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"ejercicio2_2","l":"Bebida"},{"p":"ejercicio2_2","l":"Destilada"},{"p":"ejercicio2_2","l":"Fermentada"},{"p":"ejercicio2_2","l":"Inventario"},{"p":"ejercicio2_2","l":"Principal"},{"p":"ejercicio2_2","l":"Refresco"}];updateSearchResults();
