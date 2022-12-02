@@ -136,31 +136,6 @@ Como variante de la anterior, su objetivo son las brechas que puedan tener los s
 
 &nbsp;
 
-![Teclado](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600/2400x1600-que-es-el-pharming-y-como-puedes-evitarlo.jpg.img.960.1592387485198.jpg "Teclado")
-
-&nbsp;
-
-### Pharming contra phising: ¿qué los diferencia?
-
-&nbsp;
-
-A pesar de tener la misma meta, la forma de realizar el ataque es diferente. Mientras el **_phishing_ emplea un cebo** (sms, correo electrónico, etc.) con el que atraer al usuario a una web en la que **robarle sus datos**, el **_pharming_ le ataca directamente**, accediendo a su ordenador (**bien al hosts o al servidor DNS**) y enviándole directamente a la web en la que se le sustraerá la información (en lugar de darle la opción de clicar, o no, en un enlace).
-
-&nbsp;
-
-### Combatir el pharming, ¿es posible?
-
-&nbsp;
-
-Un ataque de _pharming_ es difícil de detectar si se realiza bien, por lo que es mejor prevenirlo. Para ello, existen una serie de medidas básicas a adoptar:
-
-- **Comprobar que la url es correcta** (se corresponde con la que accedes habitualmente). Si detectas que no es la misma, puedes estar ante una copia.
-- **Revisar que incluye la ‘s’** tras el ‘http’ (visualizando ‘https’). 
-- **Evaluar bien la página antes de empezar a navegar por ella** (su aspecto es el de siempre). Hay que vigilar tanto sus componentes como los distintos enlaces que incluya.
-- **No pulsar en enlaces ni descargar archivos** que no parezcan seguros. 
-- **Visualizar las notificaciones del antivirus** o el navegador. Si indican que la página no es segura, lo mejor es no entrar y buscar una opción alternativa.
-- **Contar con un buen software de seguridad** y hacerlo, si es posible, en su versión de pago (y no la gratuita, más limitada). También se pueden encontrar opciones ad hoc para este tipo de vulneraciones, más adecuadas a la hora de evitar el robo de información delicada. 
-
 
 ###### Más BBVA
 [Banca privada](https://www.bbva.es/personas/banca-privada.html)
